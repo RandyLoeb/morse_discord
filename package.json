@@ -1,5 +1,5 @@
 {
-    "name": "discordjs-tutorial-bot",
+    "name": "discordjs-morse-bot-poc",
     "type": "module",
     "version": "1.0.0",
     "description": "",
